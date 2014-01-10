@@ -25,6 +25,14 @@ public class MainActivity extends Activity {
 		int b = 4;
 	}
 	
+	public void cherry() {
+		
+	}
+	
+	public void pick() {
+		
+	}
+	
 	
 
 }
