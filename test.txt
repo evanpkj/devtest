@@ -7,4 +7,10 @@ test 2
 
 
 branch_git_and ~~~~~~~~~~
+f
+return false
+f
+f
+f
+f
 
