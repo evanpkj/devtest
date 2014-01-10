@@ -2,6 +2,12 @@ test
 test
 deallist 1
 
+<<<<<<< HEAD
 klfjaslkjfsa
 flkasjflkjsad
+=======
+modified 1
+
+abcdefg
+>>>>>>> deallist
 

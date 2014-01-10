@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 1
 lffdsalkjfsa
+=======
+tklsjflkdsjafs
+afsalkfj;salkjfas
+lfjdsalkjf
+
+>>>>>>> deallist
 
 Hello world
 
